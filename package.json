@@ -1,0 +1,14 @@
+{
+    "name": "css-only-dropdown",
+    "version": "1.0.1",
+    "description": "Example of a css only dropdown",
+    "dependencies": {
+        "mithril": "2.0.4"
+    },
+    "scripts": {
+        "dev": "wright index.html"
+    },
+    "devDependencies": {
+        "wright": "*"
+    }
+}
